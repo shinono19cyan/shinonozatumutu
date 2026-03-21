@@ -126,7 +126,7 @@
 
 さ、まず今回の手紙を読んでね。korehanzaidesuというtxtファイルに。最初はまず、社会主義、という物を話から(えっ？)。
 
-興味があるだろう。今回の手紙(私をクリックして！)、読んでね。
+興味があるだろう。今回の手紙([私をクリックして！](https://github.com/shinono19cyan/shinonozatumutu/blob/main/korehanzaidesu.txt))、読んでね。
 
 
 # ちょっとアレだけど。
