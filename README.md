@@ -1826,6 +1826,10 @@ simple is all。
 
 今夜の更新しばらくここまで。
 
+追加:更新しただよ！
+
+[今日の更新リンク](https://github.com/shinono19cyan/shinonozatumutu/tree/main#%E4%BB%8A%E9%80%B1%E3%81%AE%E4%BA%8C%E7%95%AA%E7%9B%AE%E3%81%AE%E6%9B%B4%E6%96%B0)
+
 
 
 
